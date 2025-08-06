@@ -1,4 +1,4 @@
-## Oiee! Me chamo Thallyson, Desenvolvedor de sites e softwares!
+## Oiee! Me chamo Thallyson Luiz, Desenvolvedor de sites e softwares!
 
 Sinta-se à vontade para enviar pull requests aos repositórios. Estarei sempre atento para analisá-los!
 
